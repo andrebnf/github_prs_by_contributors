@@ -20,7 +20,7 @@ You'll need the following variables on your environment:
 # secret
 GITHUB_TOKEN=<your token>
 
-# GitHub config
+# Git config
 GIT_REPO=my_repo
 GIT_ORG=my_org
 
