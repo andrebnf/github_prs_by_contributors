@@ -1,4 +1,4 @@
-# git_pr_contributors
+# github_prs_by_contributors
 
 Get a list of PRs closed grouped by authors
 
