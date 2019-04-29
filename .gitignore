@@ -1,0 +1,8 @@
+# secrets & config
+.env
+
+# project
+_pull_requests.json
+
+# system
+.DS_Store
